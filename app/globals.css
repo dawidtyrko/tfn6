@@ -40,3 +40,19 @@ a {
     color-scheme: dark;
   }
 }
+.products{
+  text-align: center;
+}
+.products li{
+  list-style: none;
+}
+.products h1{
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
+.form div{
+  padding: 6px;
+}
+.form button:hover{
+  cursor: pointer;
+}
